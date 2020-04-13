@@ -1,0 +1,5 @@
+https://parametersdownloadsandbox.cieloecommerce.cielo.com.br/healthcheck
+https://merchantapisandbox.cieloecommerce.cielo.com.br/healthcheck
+https://omnisandbox.cieloecommerce.cielo.com.br/healthcheck
+https://omniquerysandbox.cieloecommerce.cielo.com.br/healthcheck
+https://onboardingsandbox.cieloecommerce.cielo.com.br/healthcheck
